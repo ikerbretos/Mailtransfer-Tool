@@ -10,7 +10,6 @@ A modern, multi-threaded desktop application for migrating and synchronizing ema
 
 This tool is designed to help users migrate their email from one hosting provider to another (or back up an account) by copying messages over IMAP, preserving original dates and read/unread status.
 
-\`\`
 
 ## Key Features
 
